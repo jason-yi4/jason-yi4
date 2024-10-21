@@ -1,8 +1,8 @@
 Hello! My name is Jason, and I am an undergraduate computer science major at George Mason University.
 
 <strong>Current Projects:</strong>
-- Web-Based Laptop Comparison App
-- Developer for SaRuby, a 2D action side-scroller concept
+- Web-Based Laptop Comparison App using React.js and Express.js
+- Developer for SaRuby, a 2D action side-scroller concept, using the GoDot Engine
 
 <b>You can contact me @:</b>
 
