@@ -1,10 +1,11 @@
-Hello! My name is Jason, and I am an undergraduate computer science major at George Mason University.
+Hello! My name is Jason, and I am an undergraduate computer engineering major at George Mason University.
 
 <strong>Current Projects:</strong>
-- Web-Based Laptop Comparison App using JS, HTML, and CSS
+- Homelab setup using Proxmox VE
 - Developer for SaRuby, a 2D action side-scroller concept, using the GoDot Engine
 
 <b>You can contact me @:</b>
+www.linkedin.com/in/jason-yi4
 
 <!---
 jason-yi4/jason-yi4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
