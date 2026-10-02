@@ -2,7 +2,6 @@ Hello! My name is Jason, and I am an undergraduate computer engineering major at
 
 <strong>Current Projects:</strong>
 - Homelab setup using Proxmox VE
-- Developer for SaRuby, a 2D action side-scroller concept, using the GoDot Engine
 
 <b>You can contact me @:</b>
 www.linkedin.com/in/jason-yi4
